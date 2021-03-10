@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ApplicationdbModelStoreContainer" CdmEntityContainer="ApplicationdbEntities">
+    <EntitySetMapping Name="tbPessoa">
+      <EntityTypeMapping TypeName="ApplicationdbModel.Pessoa">
+        <MappingFragment StoreEntitySet="tbPessoa">
+          <ScalarProperty Name="ativo" ColumnName="ativo" />
+          <ScalarProperty Name="codPessoa" ColumnName="codPessoa" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="sobrenome" ColumnName="sobrenome" />
+          <ScalarProperty Name="dataNascimento" ColumnName="dataNascimento" />
+          <ScalarProperty Name="sexo" ColumnName="sexo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbUsuario">
+      <EntityTypeMapping TypeName="ApplicationdbModel.Usuario">
+        <MappingFragment StoreEntitySet="tbUsuario">
+          <ScalarProperty Name="codUsuario" ColumnName="codUsuario" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="senha" ColumnName="senha" />
+          <ScalarProperty Name="perfil" ColumnName="perfil" />
+          <ScalarProperty Name="ativo" ColumnName="ativo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\Application.Dados.dll.config
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\Application.Dados.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\Application.Dados.pdb
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\Application.Infraestrutura.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\AutoMapper.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\EntityFramework.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\Application.Infraestrutura.pdb
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\Application.Infraestrutura.dll.config
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\AutoMapper.xml
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\EntityFramework.xml
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\obj\Release\Application.Dados.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\obj\Release\Application.Dados.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\obj\Release\Application.Dados.csproj.CopyComplete
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\obj\Release\Application.Dados.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\obj\Release\Application.Dados.pdb

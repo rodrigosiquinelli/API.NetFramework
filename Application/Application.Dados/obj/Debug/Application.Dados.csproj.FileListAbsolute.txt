@@ -15,3 +15,20 @@ C:\Users\rodri\source\repos\Application\Application.Dados\obj\Debug\Application.
 C:\Users\rodri\source\repos\Application\Application.Dados\obj\Debug\Application.Dados.csproj.CopyComplete
 C:\Users\rodri\source\repos\Application\Application.Dados\obj\Debug\Application.Dados.dll
 C:\Users\rodri\source\repos\Application\Application.Dados\obj\Debug\Application.Dados.pdb
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\Application.Dados.dll.config
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\Application.Dados.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\Application.Dados.pdb
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\Application.Infraestrutura.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\AutoMapper.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\EntityFramework.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\Application.Infraestrutura.pdb
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\Application.Infraestrutura.dll.config
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\AutoMapper.xml
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\EntityFramework.xml
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\obj\Debug\Application.Dados.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\obj\Debug\Application.Dados.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\obj\Debug\Application.Dados.csproj.CopyComplete
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\obj\Debug\Application.Dados.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Dados\obj\Debug\Application.Dados.pdb

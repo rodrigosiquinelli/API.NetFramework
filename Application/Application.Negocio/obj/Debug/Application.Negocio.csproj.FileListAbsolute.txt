@@ -18,3 +18,23 @@ C:\Users\rodri\source\repos\Application\Application.Negocio\obj\Debug\Applicatio
 C:\Users\rodri\source\repos\Application\Application.Negocio\obj\Debug\Application.Negocio.csproj.CopyComplete
 C:\Users\rodri\source\repos\Application\Application.Negocio\obj\Debug\Application.Negocio.dll
 C:\Users\rodri\source\repos\Application\Application.Negocio\obj\Debug\Application.Negocio.pdb
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\Application.Negocio.dll.config
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\Application.Negocio.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\Application.Negocio.pdb
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\Application.Dados.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\Application.Infraestrutura.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\AutoMapper.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\Application.Dados.pdb
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\Application.Dados.dll.config
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\Application.Infraestrutura.pdb
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\Application.Infraestrutura.dll.config
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\AutoMapper.xml
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\obj\Debug\Application.Negocio.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\obj\Debug\Application.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\obj\Debug\Application.Negocio.csproj.CopyComplete
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\obj\Debug\Application.Negocio.dll
+C:\Users\rodri\source\repos\Repositorio Git\API.NetFramework\Application\Application.Negocio\obj\Debug\Application.Negocio.pdb
