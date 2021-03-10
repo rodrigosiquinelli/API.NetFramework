@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ApplicationdbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Pessoa">
+    <Key>
+      <PropertyRef Name="codPessoa" />
+    </Key>
+    <Property Name="codPessoa" Type="Int32" Nullable="false" />
+    <Property Name="nome" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="sobrenome" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="dataNascimento" Type="DateTime" Precision="3" />
+    <Property Name="sexo" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="ativo" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="codUsuario" />
+    </Key>
+    <Property Name="codUsuario" Type="Int32" Nullable="false" />
+    <Property Name="login" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="senha" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="perfil" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="ativo" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="ApplicationdbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbPessoa" EntityType="ApplicationdbModel.Pessoa" />
+    <EntitySet Name="tbUsuario" EntityType="ApplicationdbModel.Usuario" />
+  </EntityContainer>
+</Schema>
