@@ -9,7 +9,7 @@ https://apirodrigosiquinelli.azurewebsites.net/api/security/token
 
 - Será recebido um token com validade de 480 minutos.
 
-####Para testar a API 
+####Para testar a API  (Utilizei somente o Postman para os testes).
 - Insira o token que foi recebido na aba Auth (Bearer Token) ou Header (Authorization).
 
 ---------------
